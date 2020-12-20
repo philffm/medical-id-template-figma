@@ -1,6 +1,4 @@
-# Medical ID Template
-
-Status: Not started
+# 🏥🆔Medical ID Template
 
 This year I got a diagnosis and my doctor issued a medical ID - but it was handwritten and in German. I was really afraid of what would happen if I was abroad and the doctor had no idea what it said.
 
@@ -9,6 +7,8 @@ This year I got a diagnosis and my doctor issued a medical ID - but it was handw
 I was looking for Medical IDs / ICE (In Case of Emergency) - templates that look pleasling, official and are easy to fill in. After some research I decided to create my own - and now you can use it as well.
 
 Just duplicate the Figma file and use it for your very personal Medical ID
+
+![preview picture medical id](preview.jpg)
 
 ## Features:
 
