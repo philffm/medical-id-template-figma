@@ -1,4 +1,4 @@
-# 🏥🆔Medical ID Template
+# 🏥🆔 Medical ID Template
 
 This year I got a diagnosis and my doctor issued a medical ID - but it was handwritten and in German. I was really afraid of what would happen if I was abroad and the doctor had no idea what it said.
 
