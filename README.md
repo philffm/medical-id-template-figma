@@ -16,4 +16,4 @@ Just duplicate the Figma file and use it for your very personal Medical ID
 - Responsive layout
 - Add as many conditions / emergency contacts as you like, the document is flexible
 
-[🏥🆔 Medical ID Figma template](https://www.figma.com/file/Y7EQF7fdC1tIhQESHPVlLF/Medical-ID-🏥🆔?node-id=0%3A1)
+[🏥🆔 Medical ID Figma template](https://www.figma.com/file/Y7EQF7fdC1tIhQESHPVlLF/Medical-ID-%F0%9F%8F%A5%F0%9F%86%94-Duplicate-to-your-Account-%E2%9E%A1%EF%B8%8F?node-id=0%3A1)
