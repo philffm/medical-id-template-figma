@@ -22,4 +22,5 @@ Just duplicate the Figma file and use it for your very personal Medical ID
 ## Get current version
 
 [🔽 Download .fig template](https://github.com/philffm/medical-id-template-figma/releases/latest/download/MedicalID.fig)
+
 [🖼 View on Figma](https://www.figma.com/file/Y7EQF7fdC1tIhQESHPVlLF/Medical-ID-%F0%9F%8F%A5%F0%9F%86%94-Duplicate-to-your-Account-%E2%9E%A1%EF%B8%8F?node-id=0%3A1)
